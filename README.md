@@ -26,3 +26,31 @@ LABELS | DESCRIPTION
  `Total visits bank`| Total number of visits that customer made (yearly) personally to the bank
  `Total visits online`| Total number of visits or online logins made by the customer (yearly)
  `Total calls made`| Total number of calls made by the customer to the bank or its customer service department (yearly)
+
+## Setup and Installation
+To set up and run the project, follow these steps:
+
+1. Clone the repository:
+git clone https://github.com/pinkykapoor/AllLife-Bank-Customer-Segmentation.git
+
+2. Navigate to the project directory:
+cd AllLife-Bank-Customer-Segmentation
+
+3. Install the required Python packages:
+pip install -r requirements.txt
+
+## Contributing
+Contributions are welcome and appreciated. To contribute:
+
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request 
+
+## Contact
+Project Owner: Pinky Kapoor 
+
+Project Link: https://github.com/pinkykapoor/AllLife-Bank-Customer-Segmentation
+
+
